@@ -1,0 +1,68 @@
+.business-detail {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.business-header {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.business-info h1 {
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.business-info .category {
+  display: inline-block;
+  background: #667eea;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.business-info .location {
+  color: #666;
+  margin: 0.5rem 0;
+}
+
+.rating-summary {
+  margin-top: 1rem;
+}
+
+.rating-value {
+  font-size: 1.5rem;
+  color: #f39c12;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.review-count {
+  color: #666;
+}
+
+.business-description {
+  margin-bottom: 2rem;
+}
+
+.business-description h3 {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.reviews-section {
+  margin-top: 2rem;
+}
+
+.reviews-section h2 {
+  margin-bottom: 1.5rem;
+  color: #333;
+}
